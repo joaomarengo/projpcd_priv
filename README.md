@@ -91,3 +91,9 @@ Além de facilitar a compreensão de como múltiplos parâmetros interagem, esta
 João Gabriel Lima Marengo  
 Joaquim Junior Ferola Fonseca  
 Sophia Alves da Silva  
+
+**Professores Responsáveis:**
+
+Daniel Roberto Cassar  
+James Moares de Almeida   
+Leandro Nascimento Lemos  
