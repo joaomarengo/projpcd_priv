@@ -76,6 +76,7 @@ A imagem abaixo mostra uma captura de tela da interface desenvolvida:
 
 A seguir, disponibilizamos uma demonstração da aplicação em funcionamento, mostrando como o gráfico interativo responde às alterações nos parâmetros:
 
+https://github.com/user-attachments/assets/bef6813d-7a91-45de-a638-cb5d75507bb5
 
 ## 7. Conclusão
 
