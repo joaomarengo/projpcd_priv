@@ -48,12 +48,7 @@ Para tornar a modelagem mais realista, foram incluídos dois fatores importantes
 
 A equação completa que descreve essa função é:
 
-$
-v_0(T, pH) =
-\underbrace{\frac{1}{1 + 10^{pK_a - pH} + 10^{pH - pK_b}}}_{\text{Fator pH}} \times
-\underbrace{e^{-\frac{E_a}{R T}} \times e^{-\left(\frac{T - T_{\mathrm{opt}}}{\sigma}\right)^2}}_{\text{Fator temperatura}} \times
-\frac{V_{\mathrm{max,ref}} \times [S]}{K_{m,\mathrm{ref}} \times e^{\frac{\Delta H}{R T}} + [S]}
-$
+![img](images/equacao_cinetica_enzimatica.png "Equação - Cinética Enzimática")
 
 Em particular, o termo $e^{\frac{\Delta H}{R T}}$ representa a dependência da constante de Michaelis-Menten $K_m$ com a temperatura, refletindo mudanças na afinidade da enzima pelo substrato conforme a temperatura varia.
 
