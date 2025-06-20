@@ -97,3 +97,7 @@ Sophia Alves da Silva
 Daniel Roberto Cassar  
 James Moares de Almeida   
 Leandro Nascimento Lemos  
+
+## 9. Licença 
+
+Este projeto está licenciado sob os termos da [GNU General Public License v3.0](LICENSE).
