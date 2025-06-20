@@ -87,6 +87,6 @@ Além de facilitar a compreensão de como múltiplos parâmetros interagem, esta
 
 **Autores:**
 
-João Gabriel Lima Marengo
-Joaquim Junior Ferola Fonseca
-Sophia Alves da Silva
+João Gabriel Lima Marengo  
+Joaquim Junior Ferola Fonseca  
+Sophia Alves da Silva  
