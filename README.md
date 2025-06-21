@@ -86,7 +86,7 @@ Esse notebook pode ser utilizado como material de apoio para estudos sobre visua
 
 A imagem abaixo mostra uma captura de tela da interface desenvolvida:
 
-![Captura de Tela da Simulação](images/captura_de_tela_simulacao.png)
+![Captura de Tela da Simulação](images/imagem_simulacao.png)
 
 A seguir, disponibilizamos uma demonstração da aplicação em funcionamento, mostrando como o gráfico interativo responde às alterações nos parâmetros:
 
