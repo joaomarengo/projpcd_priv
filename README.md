@@ -7,13 +7,11 @@
 
 Este repositório é o projeto final da disciplina Prática em Ciência de Dados, cursada no primeiro semestre do Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência. O objetivo dessa aplicação é aplicar e aprofundar os conhecimentos adquiridos ao longo do semestre em um projeto prático, apresentado em um simpósio interno na própria instituição, com arguição dos professores responsáveis pela disciplina.
 
-
 ## Objetivo
 
 O principal objetivo deste projeto é explorar o potencial das bibliotecas Plotly e Dash para a criação de uma visualização gráfica interativa. A cinética enzimática foi escolhida como exemplo prático para aplicar essas ferramentas, permitindo manipular parâmetros como concentração do substrato, constantes de ionização, energia de ativação, entre outros. A partir desses parâmetros, é gerado um  gráfico tridimensional da velocidade enzimática, em que os eixos x e y representam a temperatura e o pH , respectivamente, e o eixo z representa a velocidade da reação.
 
 Essa abordagem facilita uma compreensão visual e dinâmica dos fatores que influenciam a atividade enzimática, além de demonstrar as capacidades das bibliotecas para projetos de ciência de dados interativos.
-
 
 ## Índice
 
@@ -70,9 +68,9 @@ Essa função serve como base computacional para gerar os valores que alimentam 
 
 ## 3. Implementação do Código
 
-A implementação completa da aplicação encontra-se no arquivo [notebook_simulacao.ipynb](notebook_simulacao.ipynb), que funciona como um guia explicativo passo a passo do desenvolvimento do projeto. Nele, cada etapa do código é apresentada com comentários e descrições que facilitam a compreensão do funcionamento da simulação.
+A implementação completa da aplicação encontra-se no arquivo [notebook_simulacao.ipynb](notebook_simulacao.ipynb), que funciona como um guia explicativo passo a passo do desenvolvimento do projeto. Nele, encontra-se todas as informações contidas neste README e, adicionalmente, cada etapa do código, apresentadas com comentários e descrições que facilitam a compreensão do funcionamento da simulação.
 
-O notebook está dividido nas seguintes seções:
+Esta seção, no notebook, está dividida nas seguintes seções:
 
 1. **Importação das Bibliotecas** – Carregamento das bibliotecas necessárias para a construção da interface e execução dos cálculos.
 2. **Codificação da Função Base** – Implementação da equação da velocidade enzimática na forma de uma função em linguagem de programação.
@@ -102,16 +100,16 @@ Além de facilitar a compreensão de como múltiplos parâmetros interagem, esta
 
 **Autores:**
 
-João Gabriel Lima Marengo  
-Joaquim Junior Ferola Fonseca  
-Sophia Alves da Silva  
+João Gabriel Lima Marengo
+Joaquim Junior Ferola Fonseca
+Sophia Alves da Silva
 
 **Professores Responsáveis:**
 
-Daniel Roberto Cassar  
-James Moares de Almeida   
-Leandro Nascimento Lemos  
+Daniel Roberto Cassar
+James Moares de Almeida
+Leandro Nascimento Lemos
 
-## 7. Licença 
+## 7. Licença
 
 Este projeto está licenciado sob os termos da [GNU General Public License v3.0](LICENSE).
